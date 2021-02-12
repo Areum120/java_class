@@ -1,6 +1,6 @@
-package array.reference.service;
+package service;
 
-import array.reference.vo.Product;
+import vo.Product;
 
 //1. 모든 제품의 브랜드 명을 출력하는 기능을 정의
 	//2. 모든 제품의 총가격을 리턴하는 기능을 정의

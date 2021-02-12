@@ -1,12 +1,12 @@
-package array.reference.service;
+package service;
 /*
  * OutletStore에서 상품을 구매하는 고객의 기능들을 모아놓은 서비스 클래스
  * 이 클래스는 이후에 DAO 클래스로 디벨롭 될 것이다.
  * 
  */
 
-import array.reference.vo.Customer;
-import array.reference.vo.Product;
+import vo.Customer;
+import vo.Product;
 
 public class OutletStoreService {
 	//1.

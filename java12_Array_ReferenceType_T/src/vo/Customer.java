@@ -1,4 +1,6 @@
-package array.referenceType_T.vo;
+package vo;
+
+
 //Outlet Store에서 제품을 구입하는 고객의 정보를 담고 있는 클래스..
 public class Customer {
 	private int ssn;

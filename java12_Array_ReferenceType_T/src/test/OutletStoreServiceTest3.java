@@ -1,8 +1,8 @@
-package array.reference.test;
+package test;
 
-import array.reference.service.OutletStoreService;
-import array.reference.vo.Customer;
-import array.reference.vo.Product;
+import service.OutletStoreService;
+import vo.Customer;
+import vo.Product;
 
 /*
  * 1. 객체 생성

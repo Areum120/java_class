@@ -1,4 +1,4 @@
-package array.referenceType_T.test;
+package test;
 
 import vo.Product;
 

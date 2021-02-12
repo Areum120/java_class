@@ -1,7 +1,7 @@
-package array.reference.test;
+package test;
 
-import array.reference.service.ProductService;
-import array.reference.vo.Product;
+import service.ProductService;
+import vo.Product;
 
 public class PersonServiceTest2 {
 	public static void main(String[] args) {

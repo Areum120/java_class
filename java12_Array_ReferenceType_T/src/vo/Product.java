@@ -1,4 +1,4 @@
-package array.referenceType_T.vo;
+package vo;
 /*
  * 상품에 대한 정보를 저장하는 클래스..
  */
